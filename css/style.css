@@ -103,6 +103,9 @@ a {
   color: #f5ae23;
   display: none;
 }
+#skills {
+  display: block;
+}
 
 .orange {
   background-color: #f5ae23;
